@@ -1,6 +1,6 @@
 form
 {
-	background: brown;
+	background: orangered;
 	width: 120%;
 	height: 500px;
 	margin: 2% 2%;
@@ -15,7 +15,7 @@ form
 
 form#a1
 {
-	background: brown;
+	background: orangered;
 	width: 80%;
 	height: 300px;
 	margin: 2% 2%;
@@ -89,7 +89,7 @@ label#x6{
 	width: 180px;
 	text-align: center;
 	margin-left: -395px;
-	background-color: orangered;
+	background-color: brown;
 	font-size: 20px;
 	border-radius: 10px;
 }
@@ -115,13 +115,15 @@ section {
 }
 
 img{
+	height: 250px;
+	width: 950px;
+}
+
+img#x2{
 	height: 150px;
 	width: 1050px;
 }
 
-body{
-	background: white;
-}
 
 header{
 	text-align: center;
